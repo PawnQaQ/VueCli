@@ -1,0 +1,6 @@
+com\liu\VuecliprojectApplication.class
+com\liu\controller\UserController.class
+com\liu\mapper\UserMapper.class
+com\liu\service\UserService.class
+com\liu\service\UserServiceImpl.class
+com\liu\domain\User.class
