@@ -1,0 +1,6 @@
+com\Realm\CustomerRealmMD5.class
+com\liu\Test\TestMD5.class
+com\liu\Test\TestCustomerRealm.class
+com\liu\TestAuthenticator.class
+com\liu\Test\TestMD5SaltHahRealm.class
+com\Realm\CustomerRealm.class
